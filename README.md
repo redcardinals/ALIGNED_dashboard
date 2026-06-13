@@ -72,6 +72,10 @@ Below the chart there are two download buttons — one for the chart as a PNG, o
 ### Citing this dataset
 Karadžić, O. (2026). Assessing Legal and Institutional Governance Norms in European Democracies (ALIGNED) (Version 1.0.2) [Data set]. Reform Track. https://reformtrack.org
 
+### Licences
+
+I am publishing the code under MIT licence. Dataset, graphs produced by dashboard are licenced under CC BY 4.0 data license.
+Please check LICENCE for details.
 
 ## Thank you for reading
 
