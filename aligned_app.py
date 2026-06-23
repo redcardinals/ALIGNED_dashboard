@@ -823,14 +823,12 @@ with d2:
                        file_name="aligned_data.csv", mime="text/csv")
 
 # ─── CITATION ──────────────────────────────────────────────────────────────────
-# APA 7 dataset reference + BibTeX, both driven by VERSION. The DOI line is the
-# only thing missing for a formal deposit; add it here when you mint one.
+# APA 7 dataset reference + BibTeX, both driven by VERSION and DOI.
 apa_cite = (
     f"Karadžić, O. (2026). Assessing Legal and Institutional Governance Norms "
     f"in European Democracies (ALIGNED) (Version {VERSION}) [Data set]. "
-    f""Reform Track. https://doi.org/10.5281/zenodo.20820079""
+    f"Reform Track. https://doi.org/10.5281/zenodo.20820079"
 )
-
 bibtex_cite = (
     "@misc{karadzic2026aligned,\n"
     "  author  = {Karad\\v{z}i\\'c, Ognjen},\n"
@@ -843,16 +841,14 @@ bibtex_cite = (
     "  doi     = {10.5281/zenodo.20820079}\n"
     "}"
 )
-
 st.markdown("<span class='cite-label'>Cite this dataset</span>", unsafe_allow_html=True)
 st.markdown(
     "<div class='cite-box'>Karadžić, O. (2026). "
     "<em>Assessing Legal and Institutional Governance Norms in European Democracies "
     f"(ALIGNED)</em> (Version {VERSION}) [Data set]. Reform Track. "
-    "<a href='https://reformtrack.org'>https://reformtrack.org</a></div>",
+    "<a href='https://doi.org/10.5281/zenodo.20820079'>https://doi.org/10.5281/zenodo.20820079</a></div>",
     unsafe_allow_html=True
 )
-
 with st.expander("Copy citation (APA 7 · BibTeX)"):
     st.caption("APA 7")
     st.code(apa_cite, language=None)
