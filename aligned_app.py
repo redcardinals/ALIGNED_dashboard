@@ -829,7 +829,8 @@ apa_cite = (
     f"Karadžić, O. (2026). Assessing Legal and Institutional Governance Norms "
     f"in European Democracies (ALIGNED) (Version {VERSION}) [Data set]. "
     f""Reform Track. https://doi.org/10.5281/zenodo.20820079""
-    
+)
+
 bibtex_cite = (
     "@misc{karadzic2026aligned,\n"
     "  author  = {Karad\\v{z}i\\'c, Ognjen},\n"
