@@ -70,7 +70,7 @@ Each sentence is coded on a five-point scale: −1 (strongly negative), −0.5, 
 Below the chart there are two download buttons — one for the chart as a PNG, one for the data behind the current view as a CSV. The PNG export requires kaleido to be installed.
 
 ### Citing this dataset
-Karadžić, O. (2026). Assessing Legal and Institutional Governance Norms in European Democracies (ALIGNED) (Version 1.0.2) [Data set]. Reform Track. https://reformtrack.org
+Karadžić, O. (2026). Assessing Legal and Institutional Governance Norms in European Democracies (ALIGNED) (Version 1.0.2) [Data set]. Reform Track. DOI: 10.5281/zenodo.20820079
 
 ### Licences
 
