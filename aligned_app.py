@@ -828,8 +828,8 @@ with d2:
 apa_cite = (
     f"Karadžić, O. (2026). Assessing Legal and Institutional Governance Norms "
     f"in European Democracies (ALIGNED) (Version {VERSION}) [Data set]. "
-    f"Reform Track. https://reformtrack.org"
-)
+    f""Reform Track. https://doi.org/10.5281/zenodo.20820079""
+    
 bibtex_cite = (
     "@misc{karadzic2026aligned,\n"
     "  author  = {Karad\\v{z}i\\'c, Ognjen},\n"
@@ -838,7 +838,8 @@ bibtex_cite = (
     "  year    = {2026},\n"
     f"  version = {{{VERSION}}},\n"
     "  note    = {Data set},\n"
-    "  url     = {https://reformtrack.org}\n"
+    "  url     = {https://reformtrack.org},\n"
+    "  doi     = {10.5281/zenodo.20820079}\n"
     "}"
 )
 
